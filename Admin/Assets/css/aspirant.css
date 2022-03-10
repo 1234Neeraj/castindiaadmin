@@ -1,0 +1,198 @@
+/* -------------------aspirant----------- */
+.div_card_ta{
+    padding: 10px;
+    background-color: #0195FF;
+    box-shadow: 0px 2px 8px #00000022;
+    border-radius: 8px;
+    opacity: 1;
+}
+.div_card_aa{
+    padding: 10px;
+    background-color: #1FB56F;
+    box-shadow: 0px 2px 8px #00000022;
+    border-radius: 8px;
+    opacity: 1;
+}
+.div_card_tp{
+    padding: 10px;
+    background-color: #9731d4;
+    box-shadow: 0px 2px 8px #00000022;
+    border-radius: 8px;
+    opacity: 1;
+}
+.ta_aa_tp_h6{
+    font-family: "Montserrat-Medium", sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color:#FFFFFF
+}
+.ta_aa_tp_h3{
+    font-family: "Montserrat-Medium", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color:#FFFFFF
+}
+.avatar{
+    position: absolute;
+    top: 7px;
+}
+.avataruser{
+    position: absolute;
+    top: 17px;
+    left: 23px;
+}
+.input_search{
+    border-right: none;
+    background: transparent  0% 0% no-repeat padding-box;
+    font-family: "Montserrat-Regular", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color:#707070;
+}
+.span_fa_search{
+    border-left: none;
+    background: #FFFFFF;
+    cursor: pointer;
+}
+.table_th{
+    font-family: "Montserrat-Medium", sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color:#000000;
+}
+.table_td{
+    font-family: "Montserrat-Regular", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color:#707070;
+}
+.td_span_fc{
+    background:#1FB56F;
+    border-radius: 20px;
+    padding: 0px 20px;
+    color:#FFFFFF;
+}
+.td_span_prf{
+    background: #F21C23;
+    border-radius: 20px;
+    padding: 0px 20px;
+    color:#FFFFFF;
+}
+.td_span_rf{
+    background: #F79862; 
+    border-radius: 20px;
+    padding: 0px 20px;
+    color:#FFFFFF;
+}
+.td_span_s2rf{
+    background: #BE5504;   
+    border-radius: 20px;
+    padding: 0px 20px;
+    color:#FFFFFF;
+}
+.td_span_adf{
+    background: #DD4A48;
+    border-radius: 20px;
+    padding: 0px 20px;
+    color:#FFFFFF;
+}
+.td_span_pf{
+    background: #e63596;    
+    border-radius: 20px;
+    padding: 0px 20px;
+    color:#FFFFFF;
+}
+.drop_toggle::after{
+    content: none!important;
+}
+
+/* ---------------------end aspirant------------------------ */
+/* ------------------datepicker--------------------------- */
+.ui-widget.ui-widget-content {
+    border: none;
+}
+.ui-datepicker .ui-datepicker-header {
+    background: #FFFFFF;
+    border: none;
+}
+/* .ui-icon, .ui-widget-content .ui-icon {
+    background-image: url(images/ui-icons_444444_256x240.png);
+} */
+.ui-datepicker td span, .ui-datepicker td a {
+    text-align: center !important;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
+    border: 1px solid #FFFFFF;
+    background: #FFFFFF;
+    font-weight: normal;
+    color: #000000;
+    border: none;
+    text-align: center!important;
+}
+.ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight {
+    border: none;
+    background: red;
+    color: #FFFFFF;
+    border-radius: 50%;
+    text-align: center !important;
+}
+
+/* ---------------------end datepicker--------------------------------- */
+/* ---------------------aspirant details------------------------------ */
+.user_profile_img{
+    border: 1px solid #707070;
+    border-radius: 50%;
+    opacity: 1;
+    width: 100%;
+}
+.asp_details_heading_h5{
+    font-family: "Montserrat-SemiBold", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color:#000000;
+}
+.asp_details_field_label{
+    font-family: "Montserrat-Medium", sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color:#707070;
+}
+.asp_details_field_data{
+    font-family: "Montserrat-Regular", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color:#707070;
+}
+/* ---------------------end aspirant details------------------------------ */
+/* ---------------------aspirant help page------------------------------ */
+.help_h1{
+    font-family: "Montserrat-SemiBold", sans-serif;
+    font-weight: 600;
+    color:#000000;
+    text-align: center;
+}
+.help_a{
+    border: 1px solid #000000;
+    padding: 10px 50px;
+    color:#000000;
+    text-decoration: none;
+    font-family: "Montserrat-Regular", sans-serif;
+    font-weight: 400;
+}
+.help_h5{
+    font-family: "Montserrat-Medium", sans-serif;
+    font-weight: 500;
+    color:#000000;
+}
+.help_h6{
+    font-family: "Montserrat-Regular", sans-serif;
+    font-weight: 400;
+    color:#000000;
+}
+.help_para{
+    font-family: "Montserrat-Regular", sans-serif;
+    font-weight: 400;
+    color:#000000;
+    text-align: left;
+}
+/* ---------------------end aspirant help page------------------------------ */
